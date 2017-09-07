@@ -1,0 +1,308 @@
+/******RED******/
+.red-6{
+    color: #730900 !important;
+}
+.red-5{
+    color: #9B1C11 !important;
+}
+.red-4{
+    color: #C42E21 !important;
+}
+.red-3{
+    color: #ED4132 !important;
+}
+.red-2{
+    color: #F3796E !important;
+}
+.red-1{
+    color: #F9B1AA !important;
+}
+.red-0{
+    color: #FAE4E1 !important;
+}
+/******DARK ORANGE******/
+.darkOrange-6{
+    color: #731D00 !important;
+}
+.darkOrange-5{
+    color: #9F2C06 !important;
+}
+.darkOrange-4{
+    color: #CB3C0B !important;
+}
+.darkOrange-3{
+    color: #F84B11 !important;
+}
+.darkOrange-2{
+    color: #FA8055 !important;
+}
+.darkOrange-1{
+    color: #FCB498 !important;
+}
+.darkOrange-0{
+    color: #FAE4D7 !important;
+}
+/******ORANGE******/
+.orange-6{
+    color: #8A2700 !important;
+}
+.orange-5{
+    color: #B04401 !important;
+}
+.orange-4{
+    color: #D56407 !important;
+}
+.orange-3{
+    color: #FA820A !important;
+}
+.orange-2{
+    color: #FCA84F !important;
+}
+.orange-1{
+    color: #FDCD94 !important;
+}
+.orange-0{
+    color: #FAEED5 !important;
+}
+/******YELLOW******/
+.yellow-6{
+    color: #675B00 !important;
+}
+.yellow-5{
+    color: #948300 !important;
+}
+.yellow-4{
+    color: #CCCC00 !important;
+}
+.yellow-3{
+    color: #F0D400 !important;
+}
+.yellow-2{
+    color: #FFE647 !important;
+}
+.yellow-1{
+    color: #FAEE90 !important;
+}
+.yellow-0{
+    color: #F8F3D3 !important;
+}
+/******LIME******/
+.lime-6{
+    color: #3A5700 !important;
+}
+.lime-5{
+    color: #537D00 !important;
+}
+.lime-4{
+    color: #6BA100 !important;
+}
+.lime-3{
+    color: #7FBF00 !important;
+}
+.lime-2{
+    color: #A9D947 !important;
+}
+.lime-1{
+    color: #CFEE91 !important;
+}
+.lime-0{
+    color: #E7F3CE !important;
+}
+/******GREEN******/
+.green-6{
+    color: #003812 !important;
+}
+.green-5{
+    color: #00591D !important;
+}
+.green-4{
+    color: #3A5700 !important;
+}
+.green-3{
+    color: #00A135 !important;
+}
+.green-2{
+    color: #47BF6F !important;
+}
+.green-1{
+    color: #90E1AB !important;
+}
+.green-0{
+    color: #CEF3DA !important;
+}
+/******TEAL******/
+.teal-6{
+    color: #00473B !important;
+}
+.teal-5{
+    color: #0F6B5C !important;
+}
+.teal-4{
+    color: #1E8F7C !important;
+}
+.teal-3{
+    color: #29B39C !important;
+}
+.teal-2{
+    color: #66CCBB !important;
+}
+.teal-1{
+    color: #A1E6DA !important;
+}
+.teal-0{
+    color: #CEF3ED !important;
+}
+/******CYAN******/
+.cyan-6{
+    color: #003F45 !important;
+}
+.cyan-5{
+    color: #006068 !important;
+}
+.cyan-4{
+    color: #00818C !important;
+}
+.cyan-3{
+    color: #00A1B0 !important;
+}
+.cyan-2{
+    color: #48BFCA !important;
+}
+.cyan-1{
+    color: #91DFE6 !important;
+}
+.cyan-0{
+    color: #CEF0F3 !important;
+}
+/******BLUE******/
+.blue-6{
+    color: #004261 !important;
+}
+.blue-5{
+    color: #005982 !important;
+}
+.blue-4{
+    color: #0071A6 !important;
+}
+.blue-3{
+    color: #0088C7 !important;
+}
+.blue-2{
+    color: #37A4D7 !important;
+}
+.blue-1{
+    color: #91D0EE !important;
+}
+.blue-0{
+    color: #D7F1FD !important;
+}
+/******INDIGO******/
+.indigo-6{
+    color: #030066 !important;
+}
+.indigo-5{
+    color: #1B1791 !important;
+}
+.indigo-4{
+    color: #342FBF !important;
+}
+.indigo-3{
+    color: #4C46EB !important;
+}
+.indigo-2{
+    color: #7B77F3 !important;
+}
+.indigo-1{
+    color: #ABA8F8 !important;
+}
+.indigo-0{
+    color: #D8D7FD !important;
+}
+/******LAVENDAR******/
+.lavendar-6{
+    color: #2D1373 !important;
+}
+.lavendar-5{
+    color: #4D309C !important;
+}
+.lavendar-4{
+    color: #6E4DC7 !important;
+}
+.lavendar-3{
+    color: #845FE8 !important;
+}
+.lavendar-2{
+    color: #AF95F5 !important;
+}
+.lavendar-1{
+    color: #D0C1FA !important;
+}
+.lavendar-0{
+    color: #ECE6FA !important;
+}
+/******PURPLE******/
+.purple-6{
+    color: #4A0059 !important;
+}
+.purple-5{
+    color: #6B147D !important;
+}
+.purple-4{
+    color: #8C26A1 !important;
+}
+.purple-3{
+    color: #A937BF !important;
+}
+.purple-2{
+    color: #C873D9 !important;
+}
+.purple-1{
+    color: #E0ABEB !important;
+}
+.purple-0{
+    color: #F6DFFA !important;
+}
+/******MAGENTA******/
+.magenta-6{
+    color: #73002F !important;
+}
+.magenta-5{
+    color: #990744 !important;
+}
+.magenta-4{
+    color: #BF0F58 !important;
+}
+.magenta-3{
+    color: #E6146C !important;
+}
+.magenta-2{
+    color: #EE5C99 !important;
+}
+.magenta-1{
+    color: #F59FC3 !important;
+}
+.magenta-0{
+    color: #FAE1EC !important;
+}
+/******GREY******/
+.grey-6{
+    color: #2F343A !important;
+}
+.grey-5{
+    color: #485059 !important;
+}
+.grey-4{
+    color: #636D78 !important;
+}
+.grey-3{
+    color: #828A94 !important;
+}
+.grey-2{
+    color: #A6ACB3 !important;
+}
+.grey-1{
+    color: #C9CDD1 !important;
+}
+.grey-0{
+    color: #EBEDF0 !important;
+}
